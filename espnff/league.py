@@ -11,7 +11,7 @@ from .exception import (PrivateLeagueException,
 
 
 class League(object):
-    '''Creates a League instance for Public ESPN league'''
+    '''Creates a League instance for ESPN league'''
     def __init__(self, league_id, year, espn_s2=None, swid=None):
         self.league_id = league_id
         self.year = year

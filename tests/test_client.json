@@ -1,0 +1,108 @@
+{
+  "data": {
+    "etag": "W/\"eyJwcm9maWxlRVRhZyI6ImViY2Y5M2RkM2QyZDQ1N2ZiOWY0M2IwNDk4NzQ0YTkxIiwiZGlzcGxheU5hbWVFVGFnIjoiNTZmYzFiOGNhODU0YWQ3MDg5ZWQwY2Y4OWQ1NTRkYWIifQ==\"",
+    "profile": {
+      "swid": "{0F8E9869-7220-4C50-97CF-C53A4E2D1C2D}",
+      "referenceId": "2497682e-fdd3-4f38-91d6-933f445f0a51",
+      "testProfileFlag": "N",
+      "username": "doem5503927",
+      "prefix": null,
+      "firstName": "John",
+      "middleName": null,
+      "lastName": "Doe",
+      "suffix": null,
+      "languagePreference": null,
+      "region": null,
+      "email": "<removed>",
+      "parentEmail": null,
+      "dateOfBirth": "1996-11-07",
+      "gender": "1",
+      "ageBand": "ADULT",
+      "ageBandAssumed": false,
+      "countryCodeDetected": "US",
+      "emailVerified": false,
+      "parentEmailVerified": false,
+      "registrationDate": "2017-03-13T17:18:23.943Z",
+      "linkedAccountsAvailable": false,
+      "complete": false,
+      "status": "ACTIVE",
+      "addresses": null,
+      "phones": null,
+      "pronunciationName": null,
+      "isShareable": true,
+      "isAdultVerified": false
+    },
+    "displayName": {
+      "displayName": "John\n        Doe",
+      "proposedDisplayName": "John Doe",
+      "proposedStatus": "NONE",
+      "moderatedStatusDate": "2017-03-14\n        17:09:28.25"
+    },
+    "geolocation": null,
+    "linkedAccounts": null,
+    "accountMapping": {},
+    "marketing": [
+      {
+        "code": "WDIGFamilySites",
+        "subscribed": true,
+        "status": "accepted",
+        "textID": null
+      },
+      {
+        "code": "ESPNFantasyGeneralNews",
+        "subscribed": true,
+        "status": "accepted",
+        "textID": null
+      },
+      {
+        "code": "ESPN_Level1_GeneralPermission",
+        "subscribed": true,
+        "status": "accepted",
+        "textID": null
+      },
+      {
+        "code": "ESPN_Insider_NLO",
+        "subscribed": true,
+        "status": "accepted",
+        "textID": null
+      },
+      {
+        "code": "ESPN_TCMen_Allstate_2017",
+        "subscribed": true,
+        "status": "accepted",
+        "textID": null
+      },
+      {
+        "code": "ESPN3rdPartySponsors",
+        "subscribed": false,
+        "status": "declined",
+        "textID": null
+      }
+    ],
+    "entitlements": [
+      {
+        "digitalAssetName": "ESPN_INSIDER",
+        "digitalAssetSourceName": "SZPREM",
+        "assetId": 11,
+        "productId": 1,
+        "expirationDate": null,
+        "effectiveDate": "2017-03-13T17:20:10.000+0000"
+      }
+    ],
+    "s2": "AEBdR%2Fa0%2FazkV18gssdJnWqI66723hbNcLfDbH86wqKY4qjizsE9qIzBATZmv08OgxjfXH8Q1uEpWmmcjPLUG7CfE84xU%2FArE4FmIGcNbsWR9gmJBzK%2BYtfLwgIIb6CPIG9Dm5XG8wnewBu3mTCkcHVavvjlg1UDuuT0Qqdv4odGIZK0ejLQjxFci7WnpsbIJ5gyjUp7D%2Fr8jeCEoQsr5tHYQmSjzBHQezSe3ujbTZ7WMniIasDAinPi7MDlWjMoivod6RIWq6PH6mp6cWAaE2ywndNN9JyaYusZ3b1Ze2QlxCp6w%3D%3D",
+    "token": {
+      "access_token": "ffcb32e84aed4448b8ca5bec7b12e86d",
+      "refresh_token": "734ca4bac803456293b0d349492d0f64",
+      "swid": "{0F8E9869-7220-4C50-97CF-C53A4E2D1C2D}",
+      "ttl": 86400,
+      "refresh_ttl": 2592000,
+      "scope": "AUTHZ_GUEST_SECURED_SESSION\n        disneyid-accountmapper-guest disneyid-accountmapper-guest-create disneyid-accountmapper-guest-read\n        disneyid-compliance-guest-read-information disneyid-compliance-guest-read-permissions\n        disneyid-compliance-guest-update-permissions disneyid-displayname-guest-update\n        disneyid-family-guest-create disneyid-family-guest-dissolve disneyid-family-guest-modify\n        disneyid-family-guest-read disneyid-profile-guest-disable disneyid-profile-guest-emailclickback\n        disneyid-profile-guest-read disneyid-profile-guest-recovery disneyid-profile-guest-update\n        disneyid-trustdomain-guest-register-sso-session dtss-entitlement-user-admin",
+      "sso": null,
+      "blue_cookie": "iVoOefaqHaI0zhvHAbKzi#64WS$hNA781TwxR6nyvOVarwHWulQOUnzgBi1Q3uVCBTVUbC3K4ZNfCcZbwg2mKOplv6mHZnh$Db1amJkqFmSJM#$IJsD68SgFoiV#MYKOiR$Tu7$TX00USQiYo6wV6AfE#sBYpj0A0eoALdxkjQsIUU4Z#4qb2Ucspy42nwofaUO3TBPNDMjUG0kWIza90OsfpiMl6ZeHNXMPyy5CSR9xjEmfgZjD5EyAc1PwSRmYfpBwWpXcqLk",
+      "authenticator": "disneyid",
+      "loginValue": null,
+      "clickbackType": null
+    }
+  },
+  "error": null
+}
